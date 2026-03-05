@@ -1,3 +1,4 @@
+import './globals.css'
 export const metadata = {
   title: "My Store",
   description: "Women's Boutique Store",
